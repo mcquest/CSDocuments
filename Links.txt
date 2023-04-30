@@ -1,1 +1,76 @@
+Projects
+
+https://unity.com/
+
+https://www.python.org/
+
+ 
+This one is by Khan Academy and it goes over for-loops really well as well as explaining the variable involved in the for loop and also briefly teaches the range function 
+https://www.youtube.com/watch?v=9LgyKiq_hU0
+ 
+ 
+This one goes over for loops and a lot of other things that for loops can be used for. This one also has designated stopping points so you can pause the video once he's done going over the information (first stopping point is after ≈ 3 minutes and 40 seconds).
+https://www.youtube.com/watch?v=94UHCEmprCY
+
+
+Exam Practice
+https://apcomputersciencetutoring.com/exam-review/
+
+https://codesignal.com/
+
+https://leetcode.com/
+
+
+Vocabulary Documentation 
+
+https://www.w3schools.com/python/python_ref_glossary.asp
+
+https://docs.unity3d.com/Manual/index.html
+
+https://csrc.nist.gov/glossary
+
+https://runestone.academy/runestone/books/published/thinkcspy/GeneralIntro/Glossary.html
+
+Key Acronyms 
+IP, HTTP,  DNS, SMTP, IXP, SSL, TCP, UDP
+
+CS Principles: Big Ideas in Programming:
+https://runestone.academy/runestone/books/published/StudentCSP/index.html
+
+How to Think Like a Computer Scientist:
+https://runestone.academy/runestone/books/published/thinkcspy/index.html
+
+
+Structures in Java - W3Schools
+
+Java Comments
+
+Java Variables
+
+Java Data Types
+
+Java While Loop
+
+Java For Loop
+
+Java User Input (Scanner class)
+
+Java If ... Else
+
+Java - Basic Operators
+
+Java Arrays
+
+Java Methods
+
+
+Data Sorting Algorithms in Java
+
+Selection Sort in Java | Baeldung
+
+Insertion Sort in Java | Baeldung
+
+Merge Sort in Java | Baeldung
+
+Quicksort Algorithm Implementation in Java | Baeldung
 
